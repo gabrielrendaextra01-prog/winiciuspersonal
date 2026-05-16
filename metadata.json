@@ -1,0 +1,8 @@
+{
+  "name": "Boxe Winicius Ronan",
+  "description": "Landing page profissional para o professor de boxe Winicius Ronan em Goiânia, focado em condicionamento físico e emagrecimento para crianças, adolescentes e adultos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
